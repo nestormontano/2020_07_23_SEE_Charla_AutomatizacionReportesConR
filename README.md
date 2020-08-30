@@ -19,3 +19,8 @@ https://www.facebook.com/socecuest/videos/1162544554101135/
 
 Mientras que en este repositorio de github encontrarán el R-notebook que se muestra durante la conferencia.
 https://github.com/nestormontano/2020_07_23_SEE_Charla_AutomatizacionReportesConR
+
+La charla fue desarrollada por:
+
+- Nathalie Tejena
+- Néstor Montaño
